@@ -59,11 +59,16 @@ def deal_cards(deck, number):
     handValue = 0
     
     
-
+    # DATA VALIDATION
     # Make sure the number of cards to deal is not
+<<<<<<< HEAD
     # greater than the number of cards in the deck.
     if number > 52:
         number = 52
+=======
+    # greater than the number of cards in the deck (52).
+
+>>>>>>> 07b48209ddb6278935ffde1da74a0454c4be4696
     
     
 

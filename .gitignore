@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 .venv/
-sometext.txt
-=======
-.gitignore
-*KEY.py
->>>>>>> 07b48209ddb6278935ffde1da74a0454c4be4696
+retail_space.csv
+git rm --cached retail_space.csv
+
+
+

@@ -1,6 +1,8 @@
 .venv/
+info_security.txt
 retail_space.csv
-git rm --cached retail_space.csv
+
+
 
 
 
